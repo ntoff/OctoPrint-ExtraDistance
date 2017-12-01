@@ -2,7 +2,7 @@
 
 Adds more buttons to the movement distance section
 
-Distances available: 0.01, 0.1, 1, 5, 10, 50, 100, 150
+![alt text](./extras/img/screenshot.png)
 
 ## Setup
 
