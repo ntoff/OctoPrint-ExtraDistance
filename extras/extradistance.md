@@ -22,7 +22,7 @@ screenshots:
   alt: movement distance buttons
   caption: movement distance buttons
 
-featuredimage: url of a featured image for your plugin, /assets/img/...
+featuredimage: /assets/img/plugins/extradistance/screenshot.png
 
 compatibility:
 
