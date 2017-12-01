@@ -18,7 +18,7 @@ tags:
 - controls
 
 screenshots:
-- url: /assets/img/screenshot.png
+- url: /assets/img/plugins/extradistance/screenshot.png
   alt: movement distance buttons
   caption: movement distance buttons
 
@@ -37,4 +37,4 @@ compatibility:
 
 ---
 
-Extra movement distances for those of us with manually levelled beds who may want to move in finer increments.
+Extra movement distances in the controls page.
