@@ -12,7 +12,7 @@ $(function() {
         self.control.distances2 = ko.observableArray([5, 50, 100, 150]);
 
         if ($("#touch body").length == 0) {
-            $(".distance").remove();
+            $(".jog-panel .distance").remove();
             $("#control-jog-z").after("\
                 <div class=\"distance\" id=\"distance-selector\">\
                     <div class=\"btn-group\" data-toggle=\"buttons-radio\" id=\"jog_distance1\">\
